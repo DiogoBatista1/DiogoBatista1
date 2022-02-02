@@ -6,7 +6,7 @@
 Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blank" rel="noreferrer">Diogo Batista</a>
 </h3>
 <h3 align="center">
-    Eu sou estudante de programação
+    Sou estudante de programação
 </h3>
 
 
