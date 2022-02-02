@@ -10,8 +10,9 @@ Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blan
     Eu sou estudante de programação
 </h3>
 <div align="center">
+<div>
 ![Estatísticas do GitHub do Diogo](https://github-readme-stats.vercel.app/api?username=diogobatista1&show_icons=true&theme=tokyonight)
-
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobatista1&layout=compact)](https://github.com/diogobatista1/github-readme-stats)
 </div>
 
