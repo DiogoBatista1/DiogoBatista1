@@ -9,9 +9,17 @@ Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blan
     Eu sou estudante de programação
 </h3>
 
-![Estatísticas do GitHub do Diogo](https://github-readme-stats.vercel.app/api?username=diogobatista1&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobatista1&layout=compact)](https://github.com/diogobatista1/github-readme-stats)
+## 🔭 Atualmente estou me dedicando em
+
+- Criar um site de portfólio interessante 
+- Criar mais projetos para o meu portfólio
+
+## 🌱 Estou atualmente aprendendo 
+
+- 📱 Node.Js e Mongo.db
+
+## 💼 Habilidades técnicas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="diogobatista1'-html"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,3 +31,10 @@ Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blan
 <img align="center" alt="react"  src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white">
 
 </div>
+
+## 📈 Estatísticas do GitHub 
+
+![Estatísticas do GitHub do Diogo](https://github-readme-stats.vercel.app/api?username=diogobatista1&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobatista1&layout=compact)](https://github.com/diogobatista1/github-readme-stats)
+
