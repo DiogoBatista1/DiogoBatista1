@@ -17,7 +17,7 @@ Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blan
 
 ## 🌱 Estou atualmente aprendendo 
 
-- 📱 Node.Js e Mongo.db
+- 📱 Angular e .NET
 
 ## 💼 Habilidades técnicas
 
