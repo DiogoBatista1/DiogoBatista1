@@ -37,6 +37,3 @@ Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blan
 ![Estatísticas do GitHub do Diogo](https://github-readme-stats.vercel.app/api?username=diogobatista1&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobatista1&layout=compact)](https://github.com/diogobatista1/github-readme-stats)
-
-![Snake animation](https://github.com/diogobatista1/diogobatista1/blob/output/github-contribution-grid-snake.svg)
-
