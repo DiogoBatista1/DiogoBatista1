@@ -1,23 +1,9 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75489556/151947181-716dc6ad-6ed4-497b-bfc7-caf35e587915.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blank" rel="noreferrer">Diogo Batista</a>
 </h3>
 <h3 align="center">
-    Sou estudante de programação
+    Java, MySql, Angular
 </h3>
-
-
-## 🔭 Atualmente estou me dedicando em
-
-- Criar um site de portfólio interessante 
-- Criar mais projetos para o meu portfólio
-
-## 🌱 Estou atualmente aprendendo 
-
-- 📱 APIs 
 
 ## 💼 Habilidades técnicas
 
@@ -27,16 +13,13 @@ Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blan
   <img align="center" alt="diogobatista330-css"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="diogobatista1-css3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="diogobatista1-js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="jquery"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white?color=red">
-<img align="center" alt="react"  src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white">
-
+  <img align="center" alt="jquery"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white?color=red">
+  <img align="center" alt="react"  src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="java"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
+  <img align="center" alt="mysql"  src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
 ## 📈 Estatísticas do GitHub 
 
 ![Estatísticas do GitHub do Diogo](https://github-readme-stats.vercel.app/api?username=diogobatista1&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobatista1&layout=compact)](https://github.com/diogobatista1/github-readme-stats)
-
-![Snake animation](https://github.com/diogobatista1/diogobatista1/blob/output/github-contribution-grid-snake.svg)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobatista1&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428)](https://github.com/diogobatista1/github-readme-stats)
