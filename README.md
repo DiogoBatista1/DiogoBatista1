@@ -5,9 +5,9 @@ Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogobatista1&label=Profile%20views&color=38ff7a&style=flat" alt="diogobatista1" /> </p>
 
-- 🔭 Atualmente trabalhando no **projeto Xadrez**
+## - 🔭 Atualmente trabalhando no **projeto Xadrez**
 
-- 🌱 Estou atualmente aprendendo **Java e Spring**
+## - 🌱 Estou atualmente aprendendo **Java e Spring**
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
