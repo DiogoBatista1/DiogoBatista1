@@ -10,13 +10,13 @@ Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blan
 ## Se conecte comigo:
 <p align="left">
 <a href="https://fb.com/diogobatist1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diogobatist1" height="30" width="40" />
+    <img align="center" src="/imgs/facebook.svg" alt="diogobatist1" height="40" width="50" />
 </a>
 <a href="https://instagram.com/diogobatista0" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diogobatista0" height="30" width="40" />
+<img align="center" src="/imgs/instagram.svg" alt="diogobatista0" height="45" width="55" />
 </a>
 <a href="https://linkedin.com/in/diogo-batista1" target="blank">
-    <img align="center" src="imgs/linkedin.svg" alt="diogo-batista1" height="40" width="50" />
+    <img align="center" src="imgs/linkedin.svg" alt="diogo-batista1" height="45" width="55" />
 </a>
 </p>
 
