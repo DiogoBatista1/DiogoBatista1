@@ -3,7 +3,7 @@ Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blan
 </h1>
 <h3 align="center">Um aspirante desenvolvedor java</h3>
 
- - 🔭 Atualmente trabalhando no **projeto Xadrez**
+ - 🔭 Atualmente trabalhando em **vários projetos pessoais!**
 
  - 🌱 Estou atualmente aprendendo **Java e Spring**
 
