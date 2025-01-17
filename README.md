@@ -19,4 +19,4 @@ Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogobatista1&label=Profile%20views&color=38ff7a&style=flat" alt="diogobatista1" /> </p>
 
-![snake gif](https://github.com/DiogoBatista1/DiogoBatista1/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/DiogoBatista1/DiogoBatista1/blob/output/github-snake-light.svg)
