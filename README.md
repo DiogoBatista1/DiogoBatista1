@@ -18,3 +18,5 @@ Olá, eu sou <a href="https://www.linkedin.com/in/diogo-batista1/" target="_blan
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogobatista1&theme=dark" alt="diogobatista1" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogobatista1&label=Profile%20views&color=38ff7a&style=flat" alt="diogobatista1" /> </p>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
